@@ -73,7 +73,6 @@ data_dir = os.path.join(root_dir, "data")
 output_dir = os.path.join(root_dir, "outputs")
 PATH_SPACY_MODEL = os.path.join(os.path.join(os.path.join(root_dir, "models"), "en_core_web_lg”), “en_core_web_lg-2.2.5”)
 PATH_RES_DIR = os.path.join(data_dir, "resources")
-PATH_BERT_MODEL = os.path.join(os.path.join(root_dir, "models"), "finbert_v1")
 ```
 
 ### Model Loading
